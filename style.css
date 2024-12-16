@@ -1,0 +1,23 @@
+header {
+    background-color: red;
+    text-align: center;
+
+ }
+ .logo{
+    width:100px ;
+    height: 100px;
+ }
+ a{
+    text-decoration: none;
+    background-color: white;
+    border-radius: 5px;
+    color: red;
+ }
+ main{
+    background-color: aqua;
+ }
+ p{
+   color: #ff1a75;}
+   h2{
+      color: #00802b;
+   }
